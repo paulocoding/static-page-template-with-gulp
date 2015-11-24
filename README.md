@@ -4,19 +4,19 @@ Setup information.
 ------------------
 
 * run this to get gulp and it's plugin's (you'll need nodejs and npm installed)
-$ npm install
+> $ npm install
 
 * add this line to ./git/info/exclude file to keep the node modules out of repository 
-/node_modules/*
+> /node_modules/*
 
 * run gulp default task by running
-$ gulp
+> $ gulp
 
 * compile sass by running
-$ gulp sass
+> $ gulp sass
 
 * bundle js files by running
-$ gulp concatJS
+> $ gulp concatJS
 
 The default task will automatically watch html, scss and js files,
 compile them and refresh the browser on changes.
