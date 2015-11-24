@@ -44,10 +44,17 @@ Project structure.
 Gulp plugins used.
 ------------------
 **browser-sync**
+
 > Refreshes browser on file changes 
+
 **gulp-autoprefixer**
+
 > Parses CSS and add vendor prefixes to rules
+
 **gulp-concat**
+
 > Merges all js files into bundle.js
+
 **gulp-sass**
+
 > Compiles sass into css and merges them into styles.css
