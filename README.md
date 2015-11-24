@@ -1,4 +1,4 @@
-# static-page-template-with-gulp
+# Static Page Template With Gulp
 
 Setup information.
 ------------------
@@ -40,3 +40,14 @@ Project structure.
 > add new scss files to the apropriate folder and import them there.
 > they will be compiled and merged into the styles.css file
 > that lives in /public/assets/css
+
+Gulp plugins used.
+------------------
+**browser-sync**
+> Refreshes browser on file changes 
+**gulp-autoprefixer**
+> Parses CSS and add vendor prefixes to rules
+**gulp-concat**
+> Merges all js files into bundle.js
+**gulp-sass**
+> Compiles sass into css and merges them into styles.css
