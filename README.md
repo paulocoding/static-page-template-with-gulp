@@ -8,7 +8,7 @@ Setup information.
 > $ npm install
 
 * If using git:
-** add this line to ./git/info/exclude file to keep the node modules out of the git repository 
+* add this line to ./git/info/exclude file to keep the node modules out of the git repository 
 > /node_modules/*
 
 * run gulp default task by running
