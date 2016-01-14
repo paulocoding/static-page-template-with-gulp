@@ -1,9 +1,10 @@
-# Static Page Template With Gulp
+# Static Page Template With Gulp and Jquery
 
 Setup information.
 ------------------
+* Make sure you have nodejs and npm installed
 
-* run this to get gulp and it's plugin's (you'll need nodejs and npm installed)
+* run this to get gulp and it's plugin's
 > $ npm install
 
 * add this line to ./git/info/exclude file to keep the node modules out of repository 
