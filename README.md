@@ -1,4 +1,4 @@
-# Static Page Template With Gulp and Jquery
+# Static Page Template With Gulp, Sass and Jquery
 
 Setup information.
 ------------------
