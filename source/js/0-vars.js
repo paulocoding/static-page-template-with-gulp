@@ -1,2 +1,2 @@
-var myVarTest = "Vars are working"
+var myVarTest = "Vars are working";
 console.log(myVarTest);
